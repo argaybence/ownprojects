@@ -1,0 +1,2 @@
+# ownprojects
+Logical python operations.
